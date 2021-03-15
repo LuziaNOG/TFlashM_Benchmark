@@ -2,7 +2,7 @@
 Benchmark desenvolvido na Disciplina de Analise de Desempenho-PCOMP UFC-Quixadá 2021
 
 
-O TflashM benckmark é um benchmark para análise de desempenho de dispositivos de memória flash, especialmente pendrive, sua análise é realizada com base na velocidade de escrita e leitura. É usado para teste da escrita 50MB de carga de trabalho multiplicado pela quantidade de repetição. A leitura também recebe uma quantidade de repetição. A quantidade de repetição é a mesma para os testes de leitura e de escrita e é solicitada pelo programa durante a execução.
+O TFlashM benckmark é um benchmark para análise de desempenho de dispositivos de memória flash, especialmente pendrive, sua análise é realizada com base na velocidade de escrita e leitura. É usado para teste da escrita 50MB de carga de trabalho multiplicado pela quantidade de repetição. A leitura também recebe uma quantidade de repetição. A quantidade de repetição é a mesma para os testes de leitura e de escrita e é solicitada pelo programa durante a execução.
 
 
 Manual de instalação:
